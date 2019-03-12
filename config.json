@@ -1,20 +1,19 @@
 {
-  "token": "NTI2Mjc1MjcyOTkyMDk2Mjc2.Dy7FXg.IIvAqYj0ruVIfTGV6yiBDudElDI",
+  "token": "NTI4ODc4NDY1MzExNzAzMDU1.D2mF7Q.gV5oy8lBaXWan9oJ2QqCKGnPYEE",
   "redirects": [
     {
       "sources": [
- "531378317308461076" ],
+ "523359669280833536","513818250652680213","525131707410677761" ],
       "destinations": [
-        "541555075215130625"
+        "555082576264560640"
  ],
       "options": {
-        "title": " ",
-        "richEmbed": true,
+        "richEmbed": false,
         "richEmbedColor": 30975,
-        "includeSource": false,
+        "includeSource": true,
         "removeEveryone": true,
         "removeHere": true,
-        "copyRichEmbed": true
+        "copyRichEmbed": false
       }
     }
   ]
