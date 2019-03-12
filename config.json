@@ -1,0 +1,21 @@
+{
+  "token": "NTI2Mjc1MjcyOTkyMDk2Mjc2.Dy7FXg.IIvAqYj0ruVIfTGV6yiBDudElDI",
+  "redirects": [
+    {
+      "sources": [
+ "531378317308461076" ],
+      "destinations": [
+        "541555075215130625"
+ ],
+      "options": {
+        "title": " ",
+        "richEmbed": true,
+        "richEmbedColor": 30975,
+        "includeSource": false,
+        "removeEveryone": true,
+        "removeHere": true,
+        "copyRichEmbed": true
+      }
+    }
+  ]
+}
