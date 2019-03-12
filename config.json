@@ -3,17 +3,17 @@
   "redirects": [
     {
       "sources": [
- "523359669280833536","513818250652680213","525131707410677761" ],
+ "523359669280833536","513818250652680213","525131707410677761","530598085378965505","531919062356328448","536498286643773440" ],
       "destinations": [
         "555082576264560640"
  ],
       "options": {
-        "richEmbed": false,
+        "richEmbed": true,
         "richEmbedColor": 30975,
         "includeSource": true,
         "removeEveryone": true,
         "removeHere": true,
-        "copyRichEmbed": false
+        "copyRichEmbed": true
       }
     }
   ]
